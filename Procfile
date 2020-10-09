@@ -1,1 +1,1 @@
-web: python msg.py
+web: python primos.py
